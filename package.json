@@ -1,0 +1,23 @@
+{
+  "name": "mtg-glamify",
+  "version": "1.0.0",
+  "description": "\"Glamifies\" digital mtg decklists automatically by replacing cards with their highest rarities",
+  "main": "index.js",
+  "scripts": {
+        "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hensage/mtg-glamify.git"
+  },
+  "author": "Henry Dorrance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hensage/mtg-glamify/issues"
+  },
+  "homepage": "https://github.com/Hensage/mtg-glamify#readme",
+  "dependencies": {
+    "ejs": "^5.0.1",
+    "express": "^5.2.1"
+  }
+}
